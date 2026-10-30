@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="cl-icon-title cl-icon-desc">
+  <title id="cl-icon-title">Comunidad Libre</title>
+  <desc id="cl-icon-desc">Un libro abierto con un paso libre entre sus páginas.</desc>
+  <rect width="160" height="160" rx="24" fill="#ffffff"/>
+  <path d="m27 43 42 22v65l-42-22Zm106 0L91 65v65l42-22Z" stroke="#1447e6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+  <circle cx="80" cy="30" r="7" fill="#1447e6"/>
+</svg>
